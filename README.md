@@ -5,7 +5,6 @@ Climate Report Website
 This project is an HTML website created to raise awareness about climate change.
 
 ## Features
-- Responsive design
 - Climate statistics
 - Simple navigation
 
